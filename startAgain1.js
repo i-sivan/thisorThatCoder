@@ -1,4 +1,5 @@
 val1 = "10"
+
 val2 = "4.4"
 val3 = "4.8"
 
@@ -33,5 +34,5 @@ console.log(`falsy value and it is ${typeof x}, ${x}`);
 let ax = "0"
 
 console.log(typeof ax);
-
+-- new comments
 if (ax) console.log("a is",ax)
